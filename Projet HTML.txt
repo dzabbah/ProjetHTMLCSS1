@@ -1,0 +1,63 @@
+HTML Basics
+
+Projet HTML
+
+Votre Objectif
+
+ 
+
+Bienvenue à votre deuxième point de contrôle, et félicitations pour être arrivé jusqu'ici.
+
+Il est temps de mettre en pratique ce que nous avons appris. Vous allez créer une page web de portfolio. Vous trouverez un exemple dans le lien ci-dessous et il recréera la structure en utilisant HTML.
+
+A ce point de contrôle, vous devez :
+
+utiliser des balises sémantiques.
+ajouter une vidéo/audio à la page web.
+utiliser des liens locaux, des listes ou des tableaux.
+utiliser des formulaires HTML.
+Voici un exemple à utiliser comme ligne directrice (n'oubliez pas de ne pas le reproduire intégralement. Essayez d'être créatif.)
+
+
+Instructions
+
+1- Créez la navbar : home, about, work, resume, contact
+
+2- Créer les sections "about", "work", "resume" et "contact" (en utilisant HTML Forms) 
+
+3- Créer le pied de page.
+
+
+Détails de l'Évaluation
+
+Comment Nous Évaluerons
+
+Votre checkpoint sera évalué selon ces critères, chacun noté de 0 à 5.
+
+Critères Requis
+
+Use of a Navbar
+
+Use of HTML Forms and a footer
+
+Use of comments during the code
+
+Use of pictures / colors ( creativity)
+
+Évaluation du Checkpoint
+
+Vos Compétences Techniques
+Qualité du Travail
+Compétences de Résolution de Problèmes
+Alerte de Délai : (0 point si manqué)
+
+
+
+C:\Users\dzabbah3\Desktop\GoMyCode\ProjetHTML1\logo1.jpg
+
+
+https://student.learn.gomycode.co/my-profile
+
+
+
+890807V
